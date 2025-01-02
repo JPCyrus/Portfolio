@@ -41,5 +41,5 @@ My journey in information technology has led me to develop a passion for Data An
 
 
 ## Projects
-- New Relic
-- [MPAY Dashboard](https://github.com/JPCyrus/MPAY-Dashboard/blob/main/README.md)
+* Power BI
+  * [BFA Dashboard](https://github.com/JPCyrus/MPAY-Dashboard/blob/main/README.md)
