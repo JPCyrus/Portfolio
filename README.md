@@ -1,7 +1,7 @@
 # Hello, I'm Jan Paul Cyrus Acuña
 <a href="https://www.linkedin.com/in/jan-paul-cyrus-acuna"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a System and Monitoring Management Associate, New Relic Full Stack Practioner and data visualization enthusiast from the Philippines.
+I am a System and Monitoring Management Associate, New Relic Full Stack Observability Practioner and data visualization enthusiast from the Philippines.
 
 * 🔭 I'm currently working on CIS Bayad Center Inc Projects and it's Transactional Dashboards
 * 🌱 I'm currently dedicated to improving my proficiency in the areas of Data Analysis and Visualization.
@@ -40,7 +40,6 @@ My journey in information technology has led me to develop a passion for Data An
 
 
 
-This markdown code will create
 ## Projects
 - New Relic
 - [MPAY Dashboard](https://github.com/JPCyrus/MPAY-Dashboard/blob/main/README.md)
