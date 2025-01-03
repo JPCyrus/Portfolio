@@ -10,7 +10,7 @@ I am a System and Monitoring Management Associate, New Relic Full Stack Observab
 
 ## Objective
 
-My journey in information technology has led me to develop a passion for Data Analysis, and I am now eager to transition into this field, specifically aiming to join a Data Analayst as a Tier 1 Analyst.
+My journey in information technology has led me to develop a passion for Data Analysis, and I am now eager to transition into this field, specifically aiming to join a Data Analyst as a Tier 1 Analyst.
 
 
 ## Languages and Tools
