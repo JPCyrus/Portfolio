@@ -46,6 +46,7 @@ My journey in information technology has led me to develop a passion for Data An
  
 * New Relic
   * [MPAY Dashboard](https://github.com/JPCyrus/MPAY-Dashboard/blob/main/README.md)
+  * [BFA Dashboard](https://github.com/JPCyrus/BFA-Dashboard/blob/main/README.md)
   * [API 3.0 Dashboard](https://github.com/JPCyrus/API-3.0-Dashboard/blob/main/README.md)
   * [Ping Dashboard](https://github.com/JPCyrus/Ping-Monitoring/blob/main/README.md)
   * [AWS Certificate Manager Dashboard](https://github.com/JPCyrus/AWS-Certificate-Manager/blob/main/README.md)
