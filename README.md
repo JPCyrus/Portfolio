@@ -1,5 +1,5 @@
 # Hello, I'm Jan Paul Cyrus Acuña
-<a href="https://www.linkedin.com/in/jan-paul-cyrus-acuna"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jan" /></a>
 
 I am a System and Monitoring Management Associate, New Relic Full Stack Observability Practioner and data visualization enthusiast from the Philippines.
 
